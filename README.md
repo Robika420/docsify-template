@@ -1,31 +1,153 @@
-# Docsify Template
+# [📚  Beginners Guide](https://fmhy.net/beginners-guide)
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
+**A Guide for Beginners + FAQs**
 
-## Site Setup
+***
+***
 
-### Static Webserver
-Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
+# [📛 Adblocking / Privacy](https://github.com/fmhy/FMHY/wiki/Adblock)
 
-### GitHub Pages
+**Adblocking, Privacy, VPNs, Proxies, Antivirus**
 
-#### Hosting Site
+***
+***
 
-To host this template on GitHub Pages do the following:  
+# [🤖 Artificial Intelligence](https://github.com/fmhy/FMHY/wiki/Artificial-Intelligence)
 
-1. Log into GitHub if you have not done so already
-2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
-3. Enter a name for your new Repository and then tap the **Create repository** button
-4. Once your new Repostitory is created go to **Settings**, then select **Pages** from the left-hand sidebar, and under **Branch** choose **main** and then tap the **Save** button
-5. Wait a minute or two and refresh the same **Pages** page - once your site is ready a message will be displayed at the top of the screen along with a site link and a **Visit site** button
+**Chat Bots, Text Generators, Image Generators, Chatbot Tools**
 
-#### Editing Content
+***
+***
 
-How about editing the content of your new Docsify site on GitHub Pages? View the Markdown page you want to edit (for example, **README.md**) and tap the **Pencil Icon**, then save any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
+# [📺 Movies / TV / Anime](https://github.com/fmhy/FMHY/wiki/Streaming)
 
-### Viewing Locally 
-Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo folder to serve run locally.
+**Stream Videos, Download Videos, Torrent Videos**
 
-## Docsify Documentation
+***
+***
 
-To learn more about using Docsify, visit https://docsify.js.org.
+# [🎵 Music / Podcasts / Radio](https://github.com/fmhy/FMHY/wiki/Music)
+
+**Stream Audio, Download Audio, Torrent Audio**
+
+***
+***
+
+# [🎮 Gaming / Emulation](https://github.com/fmhy/FMHY/wiki/Gaming)
+
+**Download Games, ROMs, Gaming Tools**
+
+***
+***
+
+# [📗 Books / Comics / Manga](https://github.com/fmhy/FMHY/wiki/Reading)
+
+**Books, Comics, Magazines, Newspapers**
+
+***
+***
+
+# [💾 Downloading](https://github.com/fmhy/FMHY/wiki/Downloading)
+
+**Download Sites, Software Sites, Open Directories**
+
+***
+***
+
+# [🌀 Torrenting](https://github.com/fmhy/FMHY/wiki/Torrenting)
+
+**Torrent Clients, Torrent Sites, Trackers**
+
+***
+***
+
+# [🧠 Educational](https://github.com/fmhy/FMHY/wiki/Educational)
+
+**Courses, Documentaries, Learning Resources**
+
+***
+***
+
+# [🔧 Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)
+
+**Internet Tools, System Tools, Audio Tools, Video Tools**
+
+***
+***
+
+# [📱 Android / iOS](https://github.com/fmhy/FMHY/wiki/Mobile)
+
+**Apps, Jailbreaking, Android Emulators**
+
+***
+***
+
+# [🐧 Linux / macOS](https://github.com/fmhy/FMHY/wiki/Linux)
+
+**Apps, Software Sites, Gaming**
+
+***
+***
+
+# [🌏 Non-English](https://github.com/fmhy/FMHY/wiki/Non-Eng)
+
+**International Piracy Sites** 
+
+***
+***
+
+# [📂 Miscellaneous](https://github.com/fmhy/FMHY/wiki/Misc)
+
+**Extensions, Indexes, News, Health, Food, Fun**
+
+***
+***
+
+# [📑 Changelog](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1pl8vl0/fmhy_changelog/)
+
+**Recent Additions and Updates**
+
+***
+***
+
+# [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
+
+**FMHY Backups**
+
+***
+***
+
+# [💬 Discord](https://rentry.co/fmhy-invite)
+
+**Chat, Get Help, Suggest Sites**
+
+***
+***
+
+# [➕️ More Sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/more-sections)
+
+***
+***
+
+**[Search FMHY](https://redd.it/105xraz)** - Search the Entire Wiki
+
+**[Edit FMHY](https://fmhy.net/other/contributing)** - Make Changes to the Wiki
+
+**[Selfhost FMHY](https://fmhy.net/other/selfhosting)** - FMHY Selfhosting Guide
+
+**[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
+
+***
+***
+
+**Emoji Legend:**
+
+🌐 - 3rd Party Indexes
+
+↪️ - Section Links
+
+⭐ - Community Recommendations
+
+***
+
+[made with ❤️](https://fmhy.net/feedback)
